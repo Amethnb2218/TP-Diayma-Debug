@@ -117,3 +117,12 @@ Ce TP a permis de mieux comprendre :
 L’application a été publiée sous forme d’exécutable Windows.
 
 Lien : https://drive.google.com/file/d/1J9mzAKETvFoC0sxRqPIV-C_RtVVWaA0z/view?usp=drive_link
+
+
+
+
+Remarque :
+L’application est publiée sous forme de fichier .dll.
+Elle peut être exécutée avec la commande :
+
+dotnet Diayma.dll
