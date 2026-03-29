@@ -112,3 +112,8 @@ Ce TP a permis de mieux comprendre :
 * la structure d’un projet .NET
 
 ---
+
+11. Lien de téléchargement
+L’application a été publiée sous forme d’exécutable Windows.
+
+Lien : https://drive.google.com/file/d/1J9mzAKETvFoC0sxRqPIV-C_RtVVWaA0z/view?usp=drive_link
